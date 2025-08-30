@@ -1,4 +1,4 @@
-# Site acessível sobre o Corinthias
+# Site acessível sobre Caetano Veloso
 ## Sobre
 Refatoração de um site implementando recursos de acessibilidade no HTML, CSS e JS.
 ## Recursos de acessibilidade
